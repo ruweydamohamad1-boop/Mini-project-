@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+
+/*navigation*/
+nav img {
+  width: 80px;
+  margin: 5px;
+}
+
+
+/*gradient background*/
+.gradient {
+  background: linear-gradient(to right,blue,lightblue);
+}
+
+/*background image*/
+body{
+  background-image: url("../images/bg.jpg");
+ background-size: cover;
+}
